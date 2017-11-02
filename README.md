@@ -33,8 +33,8 @@ Cache is a struct that contains five information:
 
 # License
 
-PRAMADITHYA HERDIAN
-18116013
-Telecommunication Engineering
-Class of 2016
+//PRAMADITHYA HERDIAN
+//18116013
+//Telecommunication Engineering
+//Class of 2016
 Bandung Institute of Technology
