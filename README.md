@@ -26,3 +26,15 @@ Cache is a struct that contains five information:
 * Hit_Frequency (used in the LFU algorithm) // How many time the data accessed
 * Trait // 1 for privileged, and 0 for unprivileged
 
+# How to use
+//*Terminal*//
+"compiled_executable.exe" "Tests/Cache_Descriptions/cachedescriptionfile.format" "Tests/Trace_Files/inputfile.format" "Results/outputfile.format"
+//*without "s*//
+
+# License
+
+PRAMADITHYA HERDIAN
+18116013
+Telecommunication Engineering
+Class of 2016
+Bandung Institute of Technology
