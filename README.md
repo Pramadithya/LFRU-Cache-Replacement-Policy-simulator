@@ -27,14 +27,12 @@ Cache is a struct that contains five information:
 * Trait // 1 for privileged, and 0 for unprivileged
 
 # How to use
-//*Terminal*//
+```Terminal
 "compiled_executable.exe" "Tests/Cache_Descriptions/cachedescriptionfile.format" "Tests/Trace_Files/inputfile.format" "Results/outputfile.format"
-//*without "s*//
+```
+without "s
 
-# License
 
-//PRAMADITHYA HERDIAN
-//18116013
-//Telecommunication Engineering
-//Class of 2016
-Bandung Institute of Technology
+## License
+
+MIT License. Click [here](LICENSE.md) for more information about this license.
