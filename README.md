@@ -7,7 +7,7 @@ LRU&FIFO Cache Implementation, is a program that simulate LFRU cache replacement
 * Number of line
 * Associativity
 
-*The specification file will control how the simulator will simulate the blocks
+The specification file will control how the simulator will simulate the blocks
 	sets = (Number of line)/(Associativity)
 	blocks per line = associativity
 	privileged blocks = associativity/2
