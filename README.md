@@ -32,6 +32,10 @@ Cache is a struct that contains five information:
 ```
 without "s
 
+# Citation
+M. Bilal and S. -G. Kang, "A Cache Management Scheme for Efficient Content Eviction and Replication in Cache Networks," in IEEE Access, vol. 5, pp. 1692-1701, 2017, doi: 10.1109/ACCESS.2017.2669344.
+Paper : https://arxiv.org/ftp/arxiv/papers/1702/1702.04078.pdf
+Related Patent : https://patentimages.storage.googleapis.com/60/c5/34/c94ab8b27e2f9d/US10819823.pdf
 
 ## License
 
